@@ -1,0 +1,9 @@
+C:\Users\esada\Desktop\Kriptoloji\Odev1\Sezar\bin\Debug\Sezar.exe.config
+C:\Users\esada\Desktop\Kriptoloji\Odev1\Sezar\bin\Debug\Sezar.exe
+C:\Users\esada\Desktop\Kriptoloji\Odev1\Sezar\bin\Debug\Sezar.pdb
+C:\Users\esada\Desktop\Kriptoloji\Odev1\Sezar\bin\Debug\CipherLib.dll
+C:\Users\esada\Desktop\Kriptoloji\Odev1\Sezar\bin\Debug\CipherLib.pdb
+C:\Users\esada\Desktop\Kriptoloji\Odev1\Sezar\obj\Debug\Apps.csprojResolveAssemblyReference.cache
+C:\Users\esada\Desktop\Kriptoloji\Odev1\Sezar\obj\Debug\Apps.csproj.CoreCompileInputs.cache
+C:\Users\esada\Desktop\Kriptoloji\Odev1\Sezar\obj\Debug\Sezar.exe
+C:\Users\esada\Desktop\Kriptoloji\Odev1\Sezar\obj\Debug\Sezar.pdb

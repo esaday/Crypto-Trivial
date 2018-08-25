@@ -1,0 +1,6 @@
+C:\Users\esada\Desktop\Kriptoloji\Odev1\CipherLib\bin\Debug\CipherLib.dll
+C:\Users\esada\Desktop\Kriptoloji\Odev1\CipherLib\bin\Debug\CipherLib.pdb
+C:\Users\esada\Desktop\Kriptoloji\Odev1\CipherLib\obj\Debug\CipherLib.csprojResolveAssemblyReference.cache
+C:\Users\esada\Desktop\Kriptoloji\Odev1\CipherLib\obj\Debug\CipherLib.csproj.CoreCompileInputs.cache
+C:\Users\esada\Desktop\Kriptoloji\Odev1\CipherLib\obj\Debug\CipherLib.dll
+C:\Users\esada\Desktop\Kriptoloji\Odev1\CipherLib\obj\Debug\CipherLib.pdb

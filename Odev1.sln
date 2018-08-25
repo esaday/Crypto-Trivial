@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apps", "Sezar\Apps.csproj", "{DDE493AD-0710-4086-BF44-C65A37E92D65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CipherLib", "CipherLib\CipherLib.csproj", "{6601A5C4-56A5-4111-88B6-253EA138FF4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDE493AD-0710-4086-BF44-C65A37E92D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE493AD-0710-4086-BF44-C65A37E92D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE493AD-0710-4086-BF44-C65A37E92D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE493AD-0710-4086-BF44-C65A37E92D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6601A5C4-56A5-4111-88B6-253EA138FF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6601A5C4-56A5-4111-88B6-253EA138FF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6601A5C4-56A5-4111-88B6-253EA138FF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6601A5C4-56A5-4111-88B6-253EA138FF4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C41E7CA0-722B-44C1-8210-4717BF410F93}
+	EndGlobalSection
+EndGlobal
